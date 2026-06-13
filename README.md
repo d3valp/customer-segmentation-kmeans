@@ -79,11 +79,11 @@ uvicorn api.main:app --reload
 
 ### Segment value vs recency
 
-![Customer segment value vs recency](reports/figures/segment_value_recency.png)
+![Customer segment value vs recency](reports/segment_value_recency.png)
 
 ### Dashboard preview
 
-![Customer segmentation dashboard preview](reports/figures/dashboard_preview.png)
+![Customer segmentation dashboard preview](reports/dashboard_preview.png)
 
 ## What I would improve next
 
