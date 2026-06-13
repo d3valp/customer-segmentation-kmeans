@@ -56,13 +56,6 @@ python -m src.make_figures
 pytest -q
 ```
 
-Optional app/API:
-
-```bash
-streamlit run app/streamlit_app.py
-uvicorn api.main:app --reload
-```
-
 ## Outputs from the latest run
 
 - `data/processed/customer_features.csv`
