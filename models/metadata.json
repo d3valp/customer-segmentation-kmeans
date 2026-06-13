@@ -1,0 +1,22 @@
+{
+  "feature_columns": [
+    "recency_days",
+    "frequency",
+    "monetary",
+    "total_quantity",
+    "avg_order_value",
+    "active_span_days",
+    "country_count",
+    "avg_items_per_order",
+    "monetary_per_order"
+  ],
+  "n_clusters": 5,
+  "silhouette_score": 0.2714,
+  "segment_name_map": {
+    "3": "Champions",
+    "0": "Loyal High-Value",
+    "4": "Promising Regulars",
+    "2": "Low Engagement",
+    "1": "At-Risk / Cooling"
+  }
+}
